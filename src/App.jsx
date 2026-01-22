@@ -5,7 +5,7 @@ export default function App() {
     name: "Siri",
     regNo: "2500032474",
     dept: "CSE",
-    year: "II Year",
+    year: "1st Year",
     
   };
 
@@ -32,10 +32,7 @@ export default function App() {
             <p className="value">{student.year}</p>
           </div>
           
-          <div className="box">
-            <p className="label">i am interested in paintings and craft </p>
-            <p className="value">{student.cgpa}</p>
-          </div>
+          
         </div>
 
        
